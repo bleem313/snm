@@ -1,0 +1,8 @@
+<settings>
+<phone-settings e="2">
+<setting_server perm="RW">https://salemwebnetwork.3cx.us/rps/cfg{mac}</setting_server>
+<update_policy perm="">auto_update</update_policy>
+<cw_dialtone perm="">off</cw_dialtone>
+<always_show_active_call perm="">off</always_show_active_call>
+</phone-settings>
+</settings>
